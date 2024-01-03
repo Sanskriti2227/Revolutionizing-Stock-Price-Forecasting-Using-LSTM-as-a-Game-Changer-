@@ -1,2 +1,2 @@
-# Stock-Price-Forecasting
- Stock Price Forecasting
+# Stock-Price-Prediction
+ Stock Price Prediction
